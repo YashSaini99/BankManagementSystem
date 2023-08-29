@@ -66,12 +66,7 @@ class BankManagement{
 };
  
 main(){
-
-	// #ifndef ONLINE_JUDGE
-	// freopen("input.txt","r",stdin);
-	// freopen("output.txt","w",stdout);
-	// #endif
-
+	
 	BankManagement bank;
 	int choice;
 	char op;	

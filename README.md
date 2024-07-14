@@ -1,3 +1,3 @@
 # BankManagementSystem
 
-c++ code for internship
+A CLI based Bank Management System made ysing C++

@@ -36,4 +36,4 @@ Contributions are welcome! If you'd like to add features or fix bugs, please for
 
 ## Acknowledgments
 
-- This project was created as part of Internshipt at Topperworold for learning C++ and basic software engineering principles.
+- This project was created as part of Internship at Topperworold for learning C++ and basic software engineering principles.

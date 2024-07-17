@@ -22,7 +22,7 @@ This project is a simple Command Line Interface (CLI) based bank management syst
 
 2. **Compile the program:**
    ```bash
-   g++ main.cpp -o bms
+   g++ bms.cpp -o bms
    ```
 
 3. **Run the program:**
